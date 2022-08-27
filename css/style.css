@@ -5,8 +5,12 @@
     #66fcf1
     #45a29e background
     github token:
-    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
+    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
 */
+* {
+    font-family: fantasy;
+    font-weight: lighter;
+}
 h1 {
     color: #c5c6c7;
     grid-area: h1;

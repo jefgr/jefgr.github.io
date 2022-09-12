@@ -146,7 +146,8 @@ footer #insta{
     justify-self: center;
     grid-area: clubliedH;
 }
-.clublied p {
+.clublied pre {
+    font-family: Helveti, sans-serif;
     justify-self: center;
     grid-area: clublied;
 }

@@ -7,7 +7,7 @@ const bestuurData = [
     ["Lisse Moreels", "Penningmeester", "Schacht", "media/bestuur22-23/lisse.jpg"],
     ["Renske Lodewijkx", "Doopmeester", "Schacht", "media/bestuur22-23/renske.jpg"],
     ["Jools Desmet", "Schachtentemmer", "Schacht, Feest", "media/bestuur22-23/jools.jpg"],
-    ["Jille Schönberger", "Schachtentemmer", "Schacht", "media/schild.jpg"],
+    ["Jille Schönberger", "Schachtentemmer", "Schacht", "media/bestuur22-23/jille.jpg"],
     ["Amber Gillard", "Schachtentemmer", "Schacht", "media/bestuur22-23/amber.jpg"],
     ["Noa De Pooter", "Schachtentemmer", "Schacht", "media/bestuur22-23/noa.jpg"],
     ["Jef Grupping", "Webmaster", "Schacht, Schachtentemmer, Webmaster, Webmaster & Weekend", "media/bestuur22-23/jef.jpg"],
@@ -20,7 +20,7 @@ const bestuurData = [
     ["Naomi Kahan", "Sport", "Schacht, Schachtentemmer", "media/bestuur22-23/naomi.jpg"],
     ["Kevin Nahoel", "Sport", "Schacht", "media/schild.jpg"],
     ["Robin Sonck", "Happy Team", "Schacht, Happy Team", "media/bestuur22-23/robin.jpg"],
-    ["Marthe Horemans", "Happy Team", "Schacht", "media/schild.jpg"],
+    ["Marthe Horemans", "Happy Team", "Schacht", "media/bestuur22-23/marthe.jpg"],
     ["Renée De Vries Neefs", "Weekend", "Schacht", "media/schild.jpg"],
     ["Louise Van de Looverbosch", "Kookmama", "Schacht, Penningmeester, Vice-Praeses, Praeses", "media/bestuur22-23/louise.jpg"]
 ]

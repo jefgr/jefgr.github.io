@@ -15,7 +15,7 @@ const bestuurData = [
     ["Vincent Michiels", "Media", "Schacht, Doopmeester, Penningmeester", "media/bestuur22-23/vincent.jpg"],
     ["Robbe Seghers", "Media", "Schacht, Media", "media/bestuur22-23/robbe.jpg"],
     ["Shaun Rosbach", "Media", "Schacht", "media/bestuur22-23/shaun.jpg"],
-    ["Maaren Wullus", "Feest", "Schacht, Medewerker", "media/schild.jpg"],
+    ["Maaren Wullus", "Feest", "Schacht, Medewerker", "media/bestuur22-23/maaren.jpg"],
     ["Lars De Vos", "Feest & Sport ", "Schacht, Schachtentemmer", "media/bestuur22-23/lars.jpg"],
     ["Naomi Kahan", "Sport", "Schacht, Schachtentemmer", "media/bestuur22-23/naomi.jpg"],
     ["Kevin Nahoel", "Sport", "Schacht", "media/schild.jpg"],

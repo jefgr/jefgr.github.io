@@ -1,97 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="db4208d1-eb13-4c38-9c41-3b0fcf2fb110" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ApiaTest/bestuur.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/achille.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/axelle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/bette.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/dora.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/eline.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/hendrik.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/hendrik2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/jef.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/jools.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/lander.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/lars.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/laure.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/leen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/louise.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/louise2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/margot.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/marieke.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/marjolein.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/naomi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/robbe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/robin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/schild.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/sien.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/vincent.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/yann.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22/zoe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/achille.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/axelle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/bette.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/dora.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/eline.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/hendrik.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/hendrik2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/jef.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/jools.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/lander.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/lars.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/laure.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/leen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/louise.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/louise2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/margot.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/marieke.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/marjolein.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/naomi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/robbe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/robin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/schild.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/sien.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/vincent.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/yann.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/zoe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23/amber.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23/eline.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23/hendrik2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23/jef.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23/jools.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23/lars.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23/lisse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23/louise.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23/louise2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23/naomi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23/noa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23/robbe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23/robin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23/schild.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23/sien.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23/vincent.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23/zoe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23/zoe2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23Origineel/amber.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23Origineel/lisse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23Origineel/noa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23Origineel/zoe2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/img5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/media/schild.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/scripts/bestuurData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/scripts/bestuurScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/scripts/indexScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/scripts/tijdlijnScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiaTest/tijdlijn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styleUWH.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/playerData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/sorterScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teamSorter.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/eline.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/eline.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23/eline.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23/eline.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,6 +38,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -124,6 +60,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jefgr\WebstormProjects\githubSite\html" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -135,7 +76,8 @@
       <workItem from="1647957107953" duration="9727000" />
       <workItem from="1648040014694" duration="1736000" />
       <workItem from="1661631232733" duration="16000" />
-      <workItem from="1661635675475" duration="337000" />
+      <workItem from="1661635675475" duration="870000" />
+      <workItem from="1678463702350" duration="20210000" />
     </task>
     <servers />
   </component>
@@ -152,11 +94,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1647959506229">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1678473897997">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1647959506229" />
+    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1678473897997" />
   </component>
 </project>

@@ -148,7 +148,7 @@ function publishTeams(){
        document.getElementById("teamTwo").insertAdjacentHTML("beforebegin", team2[i].toString());
     }
     console.log("reached end");
-
+    console.log("team 1: " + team1.toString() + "\n" + "team 2: " + team2.toString() + "\n" + "team A: " + teamA.toString() + "\n" + "team B: " + teamB.toString());
     window.alert("team 1: " + team1.toString() + "\n" + "team 2: " + team2.toString() + "\n" + "team A: " + teamA.toString() + "\n" + "team B: " + teamB.toString());
 }
 

@@ -47,6 +47,11 @@ function generateButton(player){
 }
 
 function printCheckedValues() {
+    availablePlayers = [];
+    team1 = [];
+    team2 = [];
+    teamA = [];
+    teamB = [];
     // Get all the checkboxes on the page
     const checkboxes = document.querySelectorAll('input[type="checkbox"]');
     // Create an array to hold the values of the checked checkboxes
@@ -135,20 +140,21 @@ function divideTeams() {
 
 
 function publishTeams(){
+    document.getElementById("teamOne").innerHTML = "";
+    document.getElementById("teamTwo").innerHTML = "";
+
     //Publish Team One
     console.log("publishTeamOne")
-
     for (let i = 0; i < team1.length; i++) {
-        document.getElementById("teamOne").innerHTML += team1[i].toString();
+        document.getElementById("teamOne").innerHTML += team1[i].toString() + "<br>";
     }
-
     //Publish Team Two
     console.log("publishTeamTwo")
     for (let i = 0; i < team2.length; i++) {
-       document.getElementById("teamTwo").insertAdjacentHTML("beforebegin", team2[i].toString());
+       document.getElementById("teamTwo").innerHTML += team2[i].toString() + "<br>";
     }
     console.log("reached end");
-
-    window.alert("team 1: " + team1.toString() + "\n" + "team 2: " + team2.toString() + "\n" + "team A: " + teamA.toString() + "\n" + "team B: " + teamB.toString());
 }
+
+
 

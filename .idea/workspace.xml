@@ -19,15 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db4208d1-eb13-4c38-9c41-3b0fcf2fb110" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/styleUWH.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/playerData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/sorterScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teamSorter.html" afterDir="false" />
+    <list default="true" id="db4208d1-eb13-4c38-9c41-3b0fcf2fb110" name="Default Changelist" comment="Added teamsorter">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/eline.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur21-22Original/eline.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23/eline.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ApiaTest/media/bestuur22-23/eline.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/sorterScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/sorterScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teamSorter.html" beforeDir="false" afterPath="$PROJECT_DIR$/teamSorter.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +33,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -77,8 +72,18 @@
       <workItem from="1648040014694" duration="1736000" />
       <workItem from="1661631232733" duration="16000" />
       <workItem from="1661635675475" duration="870000" />
-      <workItem from="1678463702350" duration="20210000" />
+      <workItem from="1678463702350" duration="20869000" />
+      <workItem from="1679413761858" duration="63000" />
+      <workItem from="1679502442648" duration="3839000" />
     </task>
+    <task id="LOCAL-00001" summary="Added teamsorter">
+      <created>1678487714817</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678487714817</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,7 +101,27 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added teamsorter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added teamsorter" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="-1230" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1679505754059">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1230" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1679505754059" />
+    <state x="-1322" y="301" key="MultipleFileMergeDialog" timestamp="1678487770271">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1322" y="301" key="MultipleFileMergeDialog/0.0.1536.864/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1678487770271" />
+    <state x="-1368" y="273" key="Vcs.Push.Dialog.v2" timestamp="1678488056612">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1368" y="273" key="Vcs.Push.Dialog.v2/0.0.1536.864/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1678488056612" />
+    <state x="-1143" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1678487726778">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1143" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1678487726778" />
     <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1678473897997">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>

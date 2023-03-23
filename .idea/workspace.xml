@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db4208d1-eb13-4c38-9c41-3b0fcf2fb110" name="Default Changelist" comment="fixed .innerHTML by moving button out of &lt;form&gt;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styleUWH.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styleUWH.css" afterDir="false" />
+    <list default="true" id="db4208d1-eb13-4c38-9c41-3b0fcf2fb110" name="Default Changelist" comment="css">
+      <change beforePath="$PROJECT_DIR$/javascript/sorterScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/sorterScript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/teamSorter.html" beforeDir="false" afterPath="$PROJECT_DIR$/teamSorter.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +73,7 @@
       <workItem from="1661635675475" duration="870000" />
       <workItem from="1678463702350" duration="20869000" />
       <workItem from="1679413761858" duration="63000" />
-      <workItem from="1679502442648" duration="9060000" />
+      <workItem from="1679502442648" duration="9588000" />
     </task>
     <task id="LOCAL-00001" summary="Added teamsorter">
       <created>1678487714817</created>
@@ -90,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679514758752</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="css">
+      <created>1679584200325</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679584200325</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,7 +117,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added teamsorter" />
     <MESSAGE value="fixed .innerHTML by moving button out of &lt;form&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed .innerHTML by moving button out of &lt;form&gt;" />
+    <MESSAGE value="css" />
+    <option name="LAST_COMMIT_MESSAGE" value="css" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1230" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1679505754059">
@@ -122,10 +129,10 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1322" y="301" key="MultipleFileMergeDialog/0.0.1536.864/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1679514784245" />
-    <state x="-1368" y="273" key="Vcs.Push.Dialog.v2" timestamp="1679514822467">
+    <state x="-1368" y="273" key="Vcs.Push.Dialog.v2" timestamp="1679584210052">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1368" y="273" key="Vcs.Push.Dialog.v2/0.0.1536.864/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1679514822467" />
+    <state x="-1368" y="273" key="Vcs.Push.Dialog.v2/0.0.1536.864/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1679584210052" />
     <state x="-1143" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1679514815554">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>

@@ -142,6 +142,9 @@ function divideTeams() {
 function publishTeams(){
     document.getElementById("teamOne").innerHTML = "";
     document.getElementById("teamTwo").innerHTML = "";
+    document.getElementById("teamA").innerHTML = "";
+    document.getElementById("teamB").innerHTML = "";
+
 
     //Publish Team One
     console.log("publishTeamOne")
@@ -152,6 +155,15 @@ function publishTeams(){
     console.log("publishTeamTwo")
     for (let i = 0; i < team2.length; i++) {
        document.getElementById("teamTwo").innerHTML += team2[i].toString() + "<br>";
+    }
+
+    //Publish Team A
+    for (let i = 0; i < teamA.length; i++) {
+        document.getElementById("teamA").innerHTML += teamA[i].toString() + "<br>";
+    }
+    //Publish Team B
+    for (let i = 0; i < teamB.length; i++) {
+        document.getElementById("teamB").innerHTML += teamB[i].toString() + "<br>";
     }
     console.log("reached end");
 }

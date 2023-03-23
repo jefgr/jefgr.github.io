@@ -1,0 +1,50 @@
+/*colors:
+#17252A
+#2B7A78
+#3AAFA9
+#DEF2F1
+#FEFFFF
+*/
+
+*{
+    background-color: #3aafa9;
+    color: #def2f1;
+    font-family: Tahoma, sans-serif;
+}
+
+H1{
+    color: #17252A;
+}
+button{
+    background-color: #17252A;
+}
+
+#Form{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+
+#teams{
+    display: grid;
+    grid-template-areas:
+            "left right";
+}
+#teams *{
+    font-size: larger;
+}
+
+#left{
+    grid-area: left;
+    color: #def2f1;
+}
+#left *{
+    color: #def2f1;
+}
+#right{
+    grid-area: right;
+    color: #17252A;
+}
+#right *{
+    color: #17252A;
+}

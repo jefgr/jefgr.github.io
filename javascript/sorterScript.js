@@ -31,13 +31,13 @@ class player {
         this.rating = rating;
     }
     toString(){
-        return this.name + " " + this.position + " " + this.rating + "\n";
+        return this.name + " " + this.position + "\n";
     }
 }
 
 function generateButton(player){
     let label = document.createElement("p");
-    let textName = document.createTextNode(player.name + " " + player.position + " " + player.rating);
+    let textName = document.createTextNode(player.name + " " + player.position);
     let tickbox = document.createElement("INPUT");
     tickbox.setAttribute("type", "checkbox");
     tickbox.setAttribute("value", player.name);

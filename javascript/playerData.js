@@ -1,7 +1,7 @@
 //[Name, Position, Rating]
 const playerData = [["Kahn", "center", 5],
                     ["Kris", "back", 1],
-                    ["Sander", "_front", 1],
+                    ["Sander", "_front", 2],
                     ["Sanne", "center", 5],
                     ["Glen", "_front", 2],
                     ["Wim D.C.", "wing", 3],
@@ -18,6 +18,6 @@ const playerData = [["Kahn", "center", 5],
                     ["Wim S.", "wing", 4],
                     ["Mirte", "wing", 4],
                     ["Florian", "wing", 2],
-                    ["Ezgi", "_front", 1],
+                    ["Ezgi", "_front", 2],
                     ["Maarten", "_front", 1],
                     ["Leszak", "back", 3]]

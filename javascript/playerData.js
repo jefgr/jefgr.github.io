@@ -1,23 +1,23 @@
 //[Name, Position, Rating]
-const playerData = [["Kahn", "center", 5],
-                    ["Kris", "back", 1],
-                    ["Sander", "_front", 2],
-                    ["Sanne", "center", 5],
-                    ["Glen", "_front", 2],
-                    ["Wim D.C.", "wing", 3],
-                    ["Jolien", "_front", 2],
-                    ["Wesley", "wing", 1],
-                    ["Jef", "wing", 4],
-                    ["Alexander","wing",5],
-                    ["Ricky","back",5],
-                    ["Max", "_front",2],
-                    ["Roy", "back", 5],
-                    ["Thomas", "center", 5],
-                    ["Bas", "_front", 4],
-                    ["Elmer", "_front", 3],
-                    ["Wim S.", "wing", 4],
-                    ["Mirte", "wing", 4],
-                    ["Florian", "wing", 2],
-                    ["Ezgi", "_front", 2],
-                    ["Maarten", "_front", 1],
-                    ["Leszak", "back", 3]]
+const playerData = [["Alexander","Wing",9]
+    ,["Kahn","Center",9]
+    ,["Thomas","Center",9]
+    ,["Sanne","Center",9]
+    ,["Ricky","Back",9]
+    ,["Jef","Wing",8]
+    ,["Roy","Back",8]
+    ,["Wim S.","Wing",8]
+    ,["Mirte","Wing",7]
+    ,["Bas","_Front",7]
+    ,["Wim D.C.","Wing",7]
+    ,["Leszak","Back",6]
+    ,["Elmer","_Front",6]
+    ,["Florian","_Front",5]
+    ,["Max","_Front",4]
+    ,["Jolien","_Front",4]
+    ,["Glen","_Front",4]
+    ,["Sander","_Front",4]
+    ,["Ezgi","Wing",3]
+    ,["Wesley","_Front",3]
+    ,["Maarten","_Front",3]
+    ,["Kris","Back",3]]

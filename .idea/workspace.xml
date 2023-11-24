@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,8 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db4208d1-eb13-4c38-9c41-3b0fcf2fb110" name="Default Changelist" comment="css">
-      <change beforePath="$PROJECT_DIR$/javascript/sorterScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/sorterScript.js" afterDir="false" />
+    <list default="true" id="db4208d1-eb13-4c38-9c41-3b0fcf2fb110" name="Default Changelist" comment="Update Icon">
+      <change beforePath="$PROJECT_DIR$/.idea/githubSite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/githubSite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styleUWH.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styleUWH.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/teamSorter.html" beforeDir="false" afterPath="$PROJECT_DIR$/teamSorter.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,24 +45,41 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="26kAFLb2wKBQhUUGAacG5ZyBhlF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/html" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jefgr\WebstormProjects\githubSite\html" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="teamSorter.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/githubSite/teamSorter.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.teamSorter.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -73,7 +95,11 @@
       <workItem from="1661635675475" duration="870000" />
       <workItem from="1678463702350" duration="20869000" />
       <workItem from="1679413761858" duration="63000" />
-      <workItem from="1679502442648" duration="9588000" />
+      <workItem from="1679502442648" duration="10039000" />
+      <workItem from="1679865371602" duration="83000" />
+      <workItem from="1684602451607" duration="2599000" />
+      <workItem from="1693398050314" duration="50000" />
+      <workItem from="1700861249239" duration="3227000" />
     </task>
     <task id="LOCAL-00001" summary="Added teamsorter">
       <created>1678487714817</created>
@@ -96,7 +122,28 @@
       <option name="project" value="LOCAL" />
       <updated>1679584200325</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added output team A and B">
+      <created>1679584915936</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679584915936</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update Data">
+      <created>1684603557811</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684603557811</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update Icon">
+      <created>1684605021619</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684605021619</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,34 +159,14 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added teamsorter" />
     <MESSAGE value="fixed .innerHTML by moving button out of &lt;form&gt;" />
     <MESSAGE value="css" />
-    <option name="LAST_COMMIT_MESSAGE" value="css" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="-1230" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1679505754059">
-      <screen x="-1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="-1230" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1679505754059" />
-    <state x="-1322" y="301" key="MultipleFileMergeDialog" timestamp="1679514784245">
-      <screen x="-1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="-1322" y="301" key="MultipleFileMergeDialog/0.0.1536.864/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1679514784245" />
-    <state x="-1368" y="273" key="Vcs.Push.Dialog.v2" timestamp="1679584210052">
-      <screen x="-1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="-1368" y="273" key="Vcs.Push.Dialog.v2/0.0.1536.864/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1679584210052" />
-    <state x="-1143" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1679514815554">
-      <screen x="-1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="-1143" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1679514815554" />
-    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1678473897997">
-      <screen x="-1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1678473897997" />
+    <MESSAGE value="added output team A and B" />
+    <MESSAGE value="Update Data" />
+    <MESSAGE value="Update Icon" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Icon" />
   </component>
 </project>

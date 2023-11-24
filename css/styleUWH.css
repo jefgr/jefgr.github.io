@@ -1,50 +1,88 @@
-/*colors:
-#17252A
-#2B7A78
-#3AAFA9
-#DEF2F1
-#FEFFFF
-*/
+/* Add Bootstrap styles for responsiveness */
+@media (min-width: 576px) {
+    body, html {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        background-color: #3aafa9; /* Set background color for the entire document */
+    }
 
-*{
-    background-color: #3aafa9;
-    color: #def2f1;
-    font-family: Tahoma, sans-serif;
+    * {
+        box-sizing: border-box;
+    }
+
+    #Form {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+        gap: 10px;
+    }
+
+    #Form p {
+        white-space: nowrap; /* Prevent text from wrapping onto the next line */
+    }
 }
 
-H1{
-    color: #17252A;
-}
-button{
-    background-color: #17252A;
+/* Adjust styling for checkboxes */
+#Form p {
+    margin-bottom: 0; /* Remove bottom margin for paragraph elements within #Form */
 }
 
-#Form{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+/* Add spacing for better readability */
+#Form p, #Form input[type="checkbox"] {
+    margin-right: 10px;
 }
 
-
-#teams{
-    display: grid;
-    grid-template-areas:
-            "left right";
+/* Center the checkbox within its container */
+#Form input[type="checkbox"] {
+    margin-top: 5px;
 }
-#teams *{
+
+/* Style for the navbar */
+.navbar {
+    background-color: #17252A; /* Set background color for the navbar */
+    margin-bottom: 20px;
+}
+
+.navbar-dark .navbar-brand {
+    color: #def2f1 !important; /* Set text color for the navbar brand */
+}
+
+/* Additional styles for better visibility */
+.navbar-dark .navbar-toggler-icon {
+    background-color: #def2f1;
+}
+
+.navbar-dark .navbar-toggler:focus,
+.navbar-dark .navbar-toggler:hover {
+    background-color: #2B7A78; /* Set a darker blue on hover */
+}
+
+.navbar-dark .navbar-toggler {
+    border-color: #def2f1;
+}
+
+/* Style for the content */
+.container {
+    background-color: #3aafa9 !important; /* Set background color for the content */
+    padding: 20px;
+}
+
+/* Maintain original styling for team sections */
+#teams * {
     font-size: larger;
+    color: #def2f1;
 }
 
-#left{
-    grid-area: left;
-    color: #def2f1;
-}
-#left *{
-    color: #def2f1;
-}
-#right{
-    grid-area: right;
+#right {
     color: #17252A;
 }
-#right *{
-    color: #17252A;
+
+/* Adjust styling for better visibility */
+.btn-dark {
+    background-color: #2B7A78; /* Set a darker blue for the button */
+    color: #def2f1; /* Set text color for the button */
+}
+
+.text-dark {
+    color: #17252A; /* Set text color for dark text */
 }

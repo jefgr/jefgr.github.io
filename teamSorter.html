@@ -3,35 +3,52 @@
 <head>
     <meta charset="UTF-8">
     <title>UWH Team Sorter</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
     <script src="javascript/playerData.js"></script>
     <script src="javascript/sorterScript.js"></script>
     <link rel="stylesheet" href="css/styleUWH.css">
 </head>
 <body class="uwh">
 
-<h1>UWH Team Sorter</h1>
-<p>Click the available players and "Submit". The teams get divided by 2 algorithms and are returned below.</p>
-<div class="content" id="Form">
-</div>
-<button id="submit" onclick="printCheckedValues()">Submit</button>
-<div id="teams">
-    <div id="left">
-        <h3 id="titleOne">Team white</h3>
-        <p id="teamOne"></p>
-        <h3 id="titleA">Team A</h3>
-        <p id="teamA"></p>
+<nav class="navbar navbar-dark bg-dark">
+    <div class="container-fluid">
+        <div class="d-flex justify-content-between w-100">
+            <a class="navbar-brand" href="#">UWH Team Sorter</a>
+            <a class="navbar-brand" href="index.html">Jef Grupping</a>
+        </div>
     </div>
-    <div id="right">
-        <h3 id="titleTwo">Team blue</h3>
-        <p id="teamTwo"></p>
-        <h3 id="titleB">Team B</h3>
-        <p id="teamB"></p>
+</nav>
+
+<div class="container mt-4">
+    <h1 class="text-dark">UWH Team Sorter</h1>
+    <p>Click the available players and "Submit". The teams get divided by 2 algorithms and are returned below.</p>
+
+    <div class="row g-3" id="Form">
+        <!-- Your form content here -->
+    </div>
+
+    <button class="btn btn-dark" id="submit" onclick="printCheckedValues()">Submit</button>
+
+    <div class="row mt-4" id="teams">
+        <div class="col-md-6">
+            <h3 class="text-dark" id="titleOne">Team white</h3>
+            <p id="teamOne"></p>
+            <h3 class="text-dark" id="titleA">Team A</h3>
+            <p id="teamA"></p>
+        </div>
+        <div class="col-md-6">
+            <h3 class="text-dark" id="titleTwo">Team blue</h3>
+            <p id="teamTwo"></p>
+            <h3 class="text-dark" id="titleB">Team B</h3>
+            <p id="teamB"></p>
+        </div>
     </div>
 </div>
 
-<footer>
-<p id="footer"></p>
+<footer class="mt-4">
+    <p id="footer"></p>
 </footer>
 
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

@@ -28,7 +28,7 @@ i {
     height: 50px;
 }
 a {
-    text-decoration: none;
+    text-decoration: underline;
 }
 a:link {
     color: #45a29e;

@@ -28,13 +28,11 @@ i {
     height: 50px;
 }
 a {
-    text-decoration: underline;
-}
-a i {
-    text-decoration: none
+    text-decoration: none;
 }
 a:link {
     color: #45a29e;
+    text-decoration: underlined;
 }
 a:visited {
     color: #2f6b69;

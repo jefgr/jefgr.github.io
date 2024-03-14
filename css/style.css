@@ -30,6 +30,9 @@ i {
 a {
     text-decoration: underline;
 }
+a i {
+    text-decoration: none
+}
 a:link {
     color: #45a29e;
 }

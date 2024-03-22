@@ -22,11 +22,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db4208d1-eb13-4c38-9c41-3b0fcf2fb110" name="Default Changelist" comment="Update Icon">
-      <change beforePath="$PROJECT_DIR$/.idea/githubSite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/githubSite.iml" afterDir="false" />
+    <list default="true" id="db4208d1-eb13-4c38-9c41-3b0fcf2fb110" name="Default Changelist" comment="added bootstrap">
+      <change afterPath="$PROJECT_DIR$/css/styleRubberDucks.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/rubberDucksScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/VUB_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/hannes_coenen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/jef_grupping.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/jorre_verelst.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/playing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/screenshot_game_modes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/screenshot_heatmap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/screenshot_instructions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/screenshot_qrcode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/screenshot_select.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/screenshot_vub.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rubberDucks.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styleUWH.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styleUWH.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teamSorter.html" beforeDir="false" afterPath="$PROJECT_DIR$/teamSorter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +48,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -48,9 +60,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="26kAFLb2wKBQhUUGAacG5ZyBhlF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -58,7 +70,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/jefgr/WebstormProjects/githubSite/media",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,6 +83,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jefgr\WebstormProjects\githubSite\media" />
       <recent name="C:\Users\jefgr\WebstormProjects\githubSite\html" />
     </key>
   </component>
@@ -99,7 +115,11 @@
       <workItem from="1679865371602" duration="83000" />
       <workItem from="1684602451607" duration="2599000" />
       <workItem from="1693398050314" duration="50000" />
-      <workItem from="1700861249239" duration="3227000" />
+      <workItem from="1700861249239" duration="3279000" />
+      <workItem from="1703413120163" duration="40000" />
+      <workItem from="1703963278238" duration="358000" />
+      <workItem from="1707230422681" duration="6000" />
+      <workItem from="1711111680101" duration="8307000" />
     </task>
     <task id="LOCAL-00001" summary="Added teamsorter">
       <created>1678487714817</created>
@@ -143,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1684605021619</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added bootstrap">
+      <option name="closed" value="true" />
+      <created>1700864548131</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700864548132</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +195,7 @@
     <MESSAGE value="added output team A and B" />
     <MESSAGE value="Update Data" />
     <MESSAGE value="Update Icon" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Icon" />
+    <MESSAGE value="added bootstrap" />
+    <option name="LAST_COMMIT_MESSAGE" value="added bootstrap" />
   </component>
 </project>

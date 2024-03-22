@@ -108,3 +108,20 @@ button:hover {
 .active {
     display: block;
 }
+
+@media only screen and (max-width: 700px) {
+    .card,
+    .carousel-card {
+        width: 90%; /* Adjust width for smaller screens */
+    }
+
+    .carousel-container,
+    button {
+        display: none; /* Hide carousel and buttons on small screens */
+    }
+
+    .column {
+        width: 100%; /* Make columns take full width on smaller screens */
+        float: none; /* Remove float */
+    }
+}

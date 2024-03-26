@@ -22,9 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db4208d1-eb13-4c38-9c41-3b0fcf2fb110" name="Default Changelist" comment="bugfix jorre linkedin">
+    <list default="true" id="db4208d1-eb13-4c38-9c41-3b0fcf2fb110" name="Default Changelist" comment="responsive design">
+      <change afterPath="$PROJECT_DIR$/RubberDucksArticle.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RubberDucksSlides.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styleRubberDucks.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styleRubberDucks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rubberDucks.html" beforeDir="false" afterPath="$PROJECT_DIR$/rubberDucks.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/jefgr/WebstormProjects/githubSite/media",
+    "last_opened_file_path": "C:/Users/jefgr/WebstormProjects/githubSite",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -69,6 +71,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jefgr\WebstormProjects\githubSite" />
       <recent name="C:\Users\jefgr\WebstormProjects\githubSite\media" />
       <recent name="C:\Users\jefgr\WebstormProjects\githubSite\html" />
     </key>
@@ -105,7 +108,8 @@
       <workItem from="1703413120163" duration="40000" />
       <workItem from="1703963278238" duration="358000" />
       <workItem from="1707230422681" duration="6000" />
-      <workItem from="1711111680101" duration="9348000" />
+      <workItem from="1711111680101" duration="9544000" />
+      <workItem from="1711493202909" duration="654000" />
     </task>
     <task id="LOCAL-00001" summary="Added teamsorter">
       <created>1678487714817</created>
@@ -173,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711120673830</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="responsive design">
+      <option name="closed" value="true" />
+      <created>1711121459369</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711121459369</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +212,7 @@
     <MESSAGE value="added bootstrap" />
     <MESSAGE value="add rubber ducks site" />
     <MESSAGE value="bugfix jorre linkedin" />
-    <option name="LAST_COMMIT_MESSAGE" value="bugfix jorre linkedin" />
+    <MESSAGE value="responsive design" />
+    <option name="LAST_COMMIT_MESSAGE" value="responsive design" />
   </component>
 </project>

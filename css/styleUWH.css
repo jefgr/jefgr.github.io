@@ -1,5 +1,5 @@
 /* Add Bootstrap styles for responsiveness */
-@media (min-width: 576px) {
+@media screen and (min-width: 576px) {
     body, html {
         margin: 0;
         padding: 0;

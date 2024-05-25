@@ -31,7 +31,7 @@ class player {
         this.rating = rating;
     }
     toString(){
-        return this.name + " " + this.position + "\n";
+        return this.name + " " + this.position + this.rating + "\n";
     }
 }
 
@@ -52,6 +52,10 @@ function printCheckedValues() {
     team2 = [];
     teamA = [];
     teamB = [];
+    score1 = 0;
+    score2 = 0;
+    scoreA = 0;
+    scoreB = 0;
     // Get all the checkboxes on the page
     const checkboxes = document.querySelectorAll('input[type="checkbox"]');
     // Create an array to hold the values of the checked checkboxes
@@ -109,15 +113,16 @@ function divideTeams() {
     console.log("divideTeams")
 
     for (let i = 0; i < availablePlayers.length; i++) {
-        if (i % 2 === 0) {
+        console.log(availablePlayers[i])
+        if (scoreA < scoreB) {
             teamA.push(availablePlayers[i]);
             scoreA += availablePlayers[i].rating;
+            console.log("A" + scoreA)
         } else {
             teamB.push(availablePlayers[i]);
             scoreB += availablePlayers[i].rating;
-
+            console.log("B" + scoreB)
         }
-
     }
     let j = 0;
     for (let i = 0; i < availablePlayers.length; i++) {

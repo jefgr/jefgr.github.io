@@ -31,7 +31,7 @@ class player {
         this.rating = rating;
     }
     toString(){
-        return this.name + " " + this.position + this.rating + "\n";
+        return this.name + " " + this.position + "\n";
     }
 }
 
@@ -85,7 +85,6 @@ function logTeam(team){
 }
 
 function runSorter() {
-    console.log("runSorter");
     availablePlayers.sort(() => Math.random() - 0.5)
     if (availablePlayers.length < 8) {
         availablePlayers.sort((p1, p2) => (p1.rating < p2.rating) ? 1 : (p1.rating > p2.rating) ? -1 : 0);
@@ -110,18 +109,14 @@ function runSorter() {
 
 function divideTeams() {
     //Divide Teams
-    console.log("divideTeams")
 
     for (let i = 0; i < availablePlayers.length; i++) {
-        console.log(availablePlayers[i])
         if (scoreA < scoreB) {
             teamA.push(availablePlayers[i]);
             scoreA += availablePlayers[i].rating;
-            console.log("A" + scoreA)
         } else {
             teamB.push(availablePlayers[i]);
             scoreB += availablePlayers[i].rating;
-            console.log("B" + scoreB)
         }
     }
     let j = 0;
